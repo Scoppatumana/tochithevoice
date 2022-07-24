@@ -940,18 +940,7 @@ footer .footer-centered-div .footer-inner-div .icon-ul .icon-li{
 
 /* START OF TECH-REVIEW MOBILE VIEW */
 
-@media all and (max-width:815px){
-    .tech-reviews-overall .tech-reviews-overall-in .slide-row .slide-col .text {
-     
-    }
-}
 
-/* SERVICES MOBILE VIEW STARTS */
-@media all and (max-width:815px){
-    .background-main-div .background-image-inner-div {
-        
-    }
-}
 
 
 @media all and (max-width:1035px){
