@@ -706,7 +706,7 @@ footer .footer-centered-div{
 }
 
 footer .footer-centered-div .footer-inner-div{
-    width: 22%;
+    width: 29%;
     height: 250px;
     line-height: 24px;
     margin-right: 2%;
@@ -817,6 +817,7 @@ footer .bottom-footer-div{
     height: 75px;
     position: absolute;
     background: rgba(0, 0, 0, 0.9);
+    top: 400px;
 }
 
 footer .bottom-footer-div .bottom-footer-inner{
@@ -989,11 +990,6 @@ footer .footer-centered-div .footer-inner-div .icon-ul .icon-li{
 
 
 
-@media all and (max-width:1140px){
-    footer .footer-centered-div .footer-inner-div .icon-ul{
-        
-    }
-}
 
 @media all and (max-width:750px){
     footer .footer-centered-div .footer-inner-div{
